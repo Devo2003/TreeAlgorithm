@@ -1,4 +1,5 @@
-﻿using System;
+﻿//NOTE: this class doesnt create the tree just coverts the file into elements within the array
+using System;
 namespace Trees
 {
     public class createTree
@@ -6,6 +7,8 @@ namespace Trees
         public int[] Nums;
         public string[] fileLines;
         public string fileDirectory;
+
+       
 
         public createTree()
         {
@@ -39,6 +42,7 @@ namespace Trees
         }
 
 
+        //NOTE: This is not needed for the assignment since the Binary Tree already sorts the items in the array
 
         // Name: BubbleSort Algorithm
         // Description:
@@ -62,8 +66,6 @@ namespace Trees
             }
             printArray(Nums);
         }
-
-
     }
 }
 

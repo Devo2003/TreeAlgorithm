@@ -1,14 +1,20 @@
-﻿<Properties StartupConfiguration="{15A03D43-2DD9-4755-A6A6-E2A118863F12}|Default">
+﻿<Properties StartupConfiguration="{15A03D43-2DD9-4755-A6A6-E2A118863F12}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Trees/createTree.cs">
     <Files>
-      <File FileName="Trees/Program.cs" Line="13" Column="37" />
-      <File FileName="Trees/createTree.cs" Line="19" Column="1" />
+      <File FileName="Trees/Program.cs" />
+      <File FileName="Trees/createTree.cs" Line="45" Column="73" />
+      <File FileName="Trees/TreeNode.cs" />
+      <File FileName="Trees/BinaryTree.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Trees">
-            <Node name="Trees">
+          <Node name="Trees" expanded="True">
+            <Node name="Trees" expanded="True">
               <Node name="createTree.cs" selected="True" />
             </Node>
           </Node>
@@ -16,11 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

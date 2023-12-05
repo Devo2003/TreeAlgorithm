@@ -10,11 +10,22 @@ namespace Trees
         {
             createTree ct = new createTree();
 
+            BinaryTree bt = new BinaryTree();
+
             string fileDirectory = "/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/scores.txt";
             int[] data = ct.fileCovertToArray(fileDirectory);
 
+            foreach (var value in data)
+            {
+                bt.Insert(value);
+            }
 
-            ct.BubbleSort(data);
+            // Perform in-order traversal to print the sorted values
+            Console.WriteLine("In order traversal of binary tree:");
+            bt.InOrderTraversal(bt.Root);
+
+
+            //ct.BubbleSort(data);
             Console.ReadKey();
         }
     }
