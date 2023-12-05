@@ -1,0 +1,15 @@
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/bin/Debug/net6.0/Trees
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/bin/Debug/net6.0/Trees.deps.json
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/bin/Debug/net6.0/Trees.runtimeconfig.json
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/bin/Debug/net6.0/Trees.dll
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/bin/Debug/net6.0/Trees.pdb
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.csproj.AssemblyReference.cache
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.AssemblyInfoInputs.cache
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.AssemblyInfo.cs
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.csproj.CoreCompileInputs.cache
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.dll
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/refint/Trees.dll
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.pdb
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/Trees.genruntimeconfig.cache
+/Users/devinsalgado35/Desktop/TreeAlgorithm/Trees/obj/Debug/net6.0/ref/Trees.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{15A03D43-2DD9-4755-A6A6-E2A118863F12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trees/createTree.cs">
+    <Files>
+      <File FileName="Trees/Program.cs" Line="13" Column="37" />
+      <File FileName="Trees/createTree.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trees">
+            <Node name="Trees">
+              <Node name="createTree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
